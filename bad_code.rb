@@ -3,4 +3,3 @@ def badName
     test
   end
 end
-
