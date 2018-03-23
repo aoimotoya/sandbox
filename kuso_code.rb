@@ -1,4 +1,4 @@
-def badName
+def good_name
   if something
     test
   end
