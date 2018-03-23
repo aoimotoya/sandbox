@@ -1,5 +1,3 @@
 def good_name
-  if something
-    test
-  end
+  test if something
 end
